@@ -43,7 +43,7 @@ The project uses the Mall Customers dataset containing:
 1. Install required libraries:
 
    ```bash
-   pip install flask pandas numpy matplotlib seaborn plotly scikit-learn openpyxl
+  py -m pip install flask pandas numpy matplotlib seaborn plotly scikit-learn openpyxl
    ```
 
 2. Run the application:
